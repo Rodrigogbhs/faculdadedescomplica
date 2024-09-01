@@ -1,0 +1,57 @@
+h1 {
+    font-size: 63px;
+    font-family: lato, Arial, Helvetica, sans-serif;
+    color: #413e7d;
+}
+
+body {
+    font-weight: 400;
+    font-family: lato, Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 2.2em;
+    color: rgb(247, 251, 247);
+    margin: 0;
+    background-color: black;
+    margin: 0px;
+}
+h2 {
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #50cfa5;
+    font-weight: 600;
+}
+header {
+    background-color: #eeea6e;
+}
+nav li a {
+    color: #413e7d;
+    text-decoration: none;
+    padding: 10px;
+}
+nav li {
+    float: right;
+}
+
+nav ul {
+    float: right;
+    list-style: none;
+}
+nav {
+    font-size: 12px;
+    letter-spacing: 4px;
+    height: 10px;
+    background-color: #50cfa5;
+    padding-right: 40px;
+}
+
+table {
+    width: 100%;
+}
+
+table td {
+    color: #eeea6e;
+    padding: 5px;
+}
+
+table tr:nth-child(odd) {
+}
