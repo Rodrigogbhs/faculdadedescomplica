@@ -1,5 +1,4 @@
-{   
-    "editor.fontFamily": "jetbrains mono",
+    "editor.fontFamily":"jetbrains mono",
     "editor.fontSize": 14,
     "editor.lineHeight": 1.8,
     "editor.rulers": [80, 120],
@@ -8,6 +7,8 @@
     "editor.fontLigatures":true,
     "workbench.editor.labelFormat": "short",
     "explorer.compactFolders": false,
+    "window.restoreWindows": "none",
+
     "apc.electron": {
         "titleBarStyle": "hiddenInset",
     },
@@ -19,6 +20,3 @@
     "apc.listRow": {
         "height": 22
     }
-    
-
-}
